@@ -75,6 +75,5 @@ if (localStorage.getItem('theme') == 'dark') {
 
 themeSwitcher.addEventListener('click', switchTheme)
 
-from copy import deepcopy
-from random import randint
+
 
